@@ -1,0 +1,1 @@
+I scraped the top companies in the U.S. table from Wikipedia using the *BeautifulSoup and Requests* packages in Python. I then converted the data into a DataFrame with the help of the *Pandas* package and exported the data. *Data cleaning* was also performed.
