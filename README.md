@@ -10,10 +10,6 @@ Below is a list of the mini projects included in this repository:
    - Description: Brief description of what this project does.
    - Technologies: List of libraries or tools used.
 
-2. **Project 2: [Project Title]**
-   - Description: Brief description of what this project does.
-   - Technologies: List of libraries or tools used.
-
-3. **Project 3: [Project Title]**
-   - Description: Brief description of what this project does.
-   - Technologies: List of libraries or tools used.
+2. **Project 2: Web Scrapping**
+   - Description: Scapped a table from the web and cleaned the data
+   - Technologies: BeautifulSoup, requests, Pandas
