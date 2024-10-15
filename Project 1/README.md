@@ -1,1 +1,1 @@
-
+This mini project uses *Pandas*, *Tkinter*, and *SQLite3* to manage and view product data from a file. Users can log in or create new accounts, and add new products or data via a graphical interface, with all information stored in a database.
